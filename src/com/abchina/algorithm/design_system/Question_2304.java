@@ -1,4 +1,4 @@
-package com.abchina.algorithm;
+package com.abchina.algorithm.design_system;
 
 import java.util.HashMap;
 import java.util.Map;

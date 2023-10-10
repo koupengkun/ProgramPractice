@@ -1,7 +1,4 @@
-package com.abchina.algorithm;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.abchina.algorithm.traversal_query;
 
 /**
  * 2125. 银行中的激光束数量
@@ -38,7 +35,7 @@ import java.util.List;
  */
 
 /**
- * 建模：二维矩阵点连结的问题
+ * 建模：二维矩阵点连结的问题（二维矩阵查找问题）
  * 按行遍历，获取每行的设备数，连线数为每行数依次相乘的和；设备数为0的不加入统计
  * 思路：数组遍历时要获取当前值和下一个值，处理时转换思路为当前值和上一个值（上一个值存储方便）
  */

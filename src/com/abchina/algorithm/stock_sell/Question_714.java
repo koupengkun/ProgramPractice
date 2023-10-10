@@ -22,7 +22,7 @@ package com.abchina.algorithm.stock_sell;
  */
 
 /**
- * 问题3升级，增加了手续费，主要思路是一致的。卖出时考虑手续费。
+ * 问题2升级，增加了手续费，主要思路是一致的。卖出时考虑手续费。
  */
 public class Question_714 {
     public int maxProfit(int[] prices, int fee) {

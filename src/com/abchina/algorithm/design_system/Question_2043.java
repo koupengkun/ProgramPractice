@@ -1,4 +1,4 @@
-package com.abchina.algorithm;
+package com.abchina.algorithm.design_system;
 
 /**
  * 2043. 简易银行系统

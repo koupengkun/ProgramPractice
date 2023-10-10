@@ -1,4 +1,4 @@
-package com.abchina.algorithm;
+package com.abchina.algorithm.math;
 
 /**
  * 1716. 计算力扣银行的钱
