@@ -33,8 +33,8 @@ package com.abchina.algorithm.GA;
  * 1.考虑会出现的最坏情况，一直亏钱，找到所有支出大于收入情况，记录总亏钱数：
  * Totallose =sum(cost – back)
  * 2.分情况讨论：
- * cost < back的交易，money = totallose + cost ;
- * cost > back的交易，money = totallose-( cost – back) + cost = totallose + back
+ * cost < back的交易，money = totallose + cost ; //总亏损没记录该笔，需要加下cost
+ * cost > back的交易，money = totallose-( cost – back) + cost = totallose + back //总亏损已记录，加下cost再减去已记录的亏损
  * 遍历所有交易，找到最大的money
  */
 public class Question_2412 {

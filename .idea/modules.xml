@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProgramPractice.iml" filepath="$PROJECT_DIR$/ProgramPractice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../ctf-tools/ctf-tools.iml" filepath="$PROJECT_DIR$/../../ctf-tools/ctf-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../eclipse/eclipse-workspace/blade_offer/blade_offer.iml" filepath="$PROJECT_DIR$/../../../eclipse/eclipse-workspace/blade_offer/blade_offer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../eclipse/eclipse-workspace/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/../../../eclipse/eclipse-workspace/leetcode/leetcode.iml" />
     </modules>
   </component>
 </project>
